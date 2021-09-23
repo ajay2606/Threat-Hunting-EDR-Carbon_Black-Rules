@@ -1,0 +1,1 @@
+((process_name:netsh.exe AND parent_name:cmd.exe) AND (crossproc_name:*dispdiag.exe)) 
