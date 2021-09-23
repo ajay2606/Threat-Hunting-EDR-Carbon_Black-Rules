@@ -1,0 +1,1 @@
+((process_name:powershell.exe AND (crossproc_name: *mavinject.exe OR childproc_name:mavinject.exe) AND process_cmdline: *sandcat.dll))
