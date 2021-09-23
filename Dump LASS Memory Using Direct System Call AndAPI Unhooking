@@ -1,0 +1,1 @@
+((process_name:cmd.exe OR process_name:powershell.exe) AND (crossproc_name:outflank-dumpert.exe OR childproc_name:lsass.exe))
